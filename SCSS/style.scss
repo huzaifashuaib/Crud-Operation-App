@@ -1,0 +1,21 @@
+@import "color";
+
+#head-color {
+    background-color: $head-1;
+    text-align: center;
+}
+#bgclr{
+    background-color: $head-2;
+}
+#main-heading{
+    h2{
+        color: $head-2;
+        text-align: center;
+        padding: 20px 0px;
+    }
+}
+#getTask{
+    // width: 75%;
+    margin: 0 auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

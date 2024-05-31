@@ -1,0 +1,19 @@
+#head-color {
+  background-color: #d90429;
+  text-align: center;
+}
+
+#bgclr {
+  background-color: #1d3557;
+}
+
+#main-heading h2 {
+  color: #1d3557;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+#getTask {
+  margin: 0 auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}/*# sourceMappingURL=style.css.map */
